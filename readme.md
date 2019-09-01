@@ -26,7 +26,7 @@
 | Alerts the user the pizza will be delivered to their location                   | clicks the delivery button to enter location details.        |
 | On click of checkout button displays a summary of the pizzas bought and prices. |                                                              |
 
-This is a link to the live site https://dicksonkariuki.github.io/Pizza/
+This is a link to the live site https://dicksonkariuki.github.io/pizza/
 
 ## Known Bugs
 
