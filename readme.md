@@ -7,6 +7,7 @@
 ## Setup/Installation Requirements
 
 -None
+
 ## Instructions
 
 -Visit the internet
@@ -17,11 +18,9 @@
 
 ### Behavior Driven Development.
 
-| behaviour | input | Output | |
-| ------------------------------------------------------------------------------- | ------------------------------------------------------------ | ------ | Shows a summary of the pizzas bought and their prices.------------------------------------------------------ |
-| Alerts user the charges on clicking deliver button. | user selects pizza size,crust,toppings,and number of pizzas. | |
-| Alerts the user the pizza will be delivered to their location | clicks the delivery button to enter location details. |
-| On click of checkout button displays a summary of the pizzas bought and prices. | |
+| behavior                                   | input                                                       | output                                                 |     |
+| ------------------------------------------ | ----------------------------------------------------------- | ------------------------------------------------------ | --- |
+| Alerts user of additional delivery charges | user selects pizza size,crust,toppings,and number of pizzas | Shows a summary of the pizzas bought and their prices. |
 
 This is a link to the live site https://dicksonkariuki.github.io/Pizza/
 
