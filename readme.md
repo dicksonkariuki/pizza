@@ -7,9 +7,6 @@
 ## Setup/Installation Requirements
 
 -None
-
-## Section of Delani Website
-
 ## Instructions
 
 -Visit the internet
@@ -20,13 +17,13 @@
 
 ### Behavior Driven Development.
 
-| behaviour                                                                       | input                                                        | Output |
-| ------------------------------------------------------------------------------- | ------------------------------------------------------------ | ------ |
-| Alerts user the charges on clicking deliver button.                             | user selects pizza size,crust,toppings,and number of pizzas. |        |
-| Alerts the user the pizza will be delivered to their location                   | clicks the delivery button to enter location details.        |
-| On click of checkout button displays a summary of the pizzas bought and prices. |                                                              |
+| behaviour | input | Output | |
+| ------------------------------------------------------------------------------- | ------------------------------------------------------------ | ------ | Shows a summary of the pizzas bought and their prices.------------------------------------------------------ |
+| Alerts user the charges on clicking deliver button. | user selects pizza size,crust,toppings,and number of pizzas. | |
+| Alerts the user the pizza will be delivered to their location | clicks the delivery button to enter location details. |
+| On click of checkout button displays a summary of the pizzas bought and prices. | |
 
-This is a link to the live site https://dicksonkariuki.github.io/pizza/
+This is a link to the live site https://dicksonkariuki.github.io/Pizza/
 
 ## Known Bugs
 
