@@ -1,3 +1,4 @@
+
 # PIZZA INN
 
 #### PIZZA INN website ia an ecommerce site that allows customers to order pizzas oftheir preference.
@@ -18,11 +19,12 @@
 
 ### Behavior Driven Development.
 
-| behavior                                   | input                                                       | output                                                 |     |
-| ------------------------------------------ | ----------------------------------------------------------- | ------------------------------------------------------ | --- |
-| Alerts user of additional delivery charges | user selects pizza size,crust,toppings,and number of pizzas | Shows a summary of the pizzas bought and their prices. |
+| behavior                                                          | input                                                       | output                                                 |     |
+| ----------------------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------ | --- |
+| Alerts user of additional delivery charges                        | user selects pizza size,crust,toppings,and number of pizzas | Shows a summary of the pizzas bought and their prices. |
+| Alerts user that the pizza will be delivered to his/her location. | user inputs their location.                                 |                                                        |
 
-This is a link to the live site https://dicksonkariuki.github.io/Pizza/
+This is a link to the live site https://dicksonkariuki.github.io/pizza/
 
 ## Known Bugs
 
@@ -44,3 +46,5 @@ Incase of problem, e-mail me at dicksonkariuki4@gmail.com or call +254726045494.
 
 _MIT License_
 Copyright (c) 2019 **Dickson Kariuki**
+
+
